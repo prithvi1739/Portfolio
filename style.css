@@ -37,7 +37,7 @@ section {
     border-radius: 8px;
 }
 
-.project-card {
+.project-card, .experience-item, .service-item, .research-item {
     background-color: #e7e7e7;
     padding: 10px;
     margin-bottom: 15px;
